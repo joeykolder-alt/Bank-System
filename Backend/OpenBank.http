@@ -1,6 +1,0 @@
-@OpenBank_HostAddress = http://localhost:5082
-
-GET {{OpenBank_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
